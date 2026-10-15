@@ -12,4 +12,4 @@ A coordenação e as equipas originais estão identificadas na página de crédi
 
 Todos os direitos reservados aos titulares originais. Não é concedida uma licença de reutilização aberta.
 
-Para consulta local, abra `index.html` e mantenha a pasta `ficheiros` junto dele.
+Para consulta local, abra `index.html` e mantenha a pasta `cdrom` junto dele.
